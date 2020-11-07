@@ -8,7 +8,7 @@ The node burger app let's you create a burger logger with MySQL, Node, Express, 
 
 ## Instructions
 
-1 )Clone lab: git clone git@github.com:0216johnsoneric/SQL-Employees-Tracker.git
+1) Clone lab: git clone git@github.com:0216johnsoneric/SQL-Employees-Tracker.git
 2) Install node.js libraries with npm install
 3) Run mysql -u root -p < schema.sql and mysql -u root -p < seed.sql to load database
 3) Open server.js in intergrated terminal
