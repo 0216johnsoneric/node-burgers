@@ -19,7 +19,7 @@ or
 
 1) Deploy on Heroku
 
-<img src="public/assets/img/Screen Shot 2020-11-07 at 4.07.39 PM.png"/>
+<img src="public/assets/img/Screen Shot 2020-11-07 at 4.13.24 PM.png"/>
 
 ### Directory structure
 
