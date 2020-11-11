@@ -17,7 +17,8 @@ The node burger app let's you create a burger logger with MySQL, Node, Express, 
 
 or 
 
-1) Deploy on Heroku
+1) Deploy on Heroku 
+ https://devour-node-burgers.herokuapp.com/
 
 <img src="public/assets/img/Screen Shot 2020-11-07 at 4.13.24 PM.png"/>
 
@@ -48,7 +49,7 @@ All the recommended files and directories from the steps above should look like 
 ├── public
 │   └── assets
 │       ├── css
-│       │   └── burger_style.css
+│       │   └── styles.css
 │       └── img
 │           └── burger.png
 │   
